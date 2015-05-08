@@ -23,7 +23,7 @@ devel(options).output('My Object', data)
        .done();
 ```
 
-##Use<Pre>
+##Use `<Pre>`
 ```
 var options = {
     usePre:true
