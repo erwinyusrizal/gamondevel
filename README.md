@@ -1,7 +1,7 @@
 #Gamon Devel
 A javascript helper to print js objects on your browser
 
-![Devel Screenshot](screenshot.jpg?raw=true)
+![Devel Screenshot](screenshot.JPG?raw=true)
 
 ##Options
 
