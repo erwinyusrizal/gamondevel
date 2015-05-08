@@ -1,7 +1,7 @@
 #Gamon Devel
 A javascript helper to print js objects on your browser
 
-![Devel Screenshot](screenshot.jpg)
+![Devel Screenshot](screenshot.jpg?raw=true)
 
 ##Options
 
@@ -23,10 +23,11 @@ devel(options).output('My Object', data)
        .done();
 ```
 
-##Use <Pre>
+##Use<Pre>
 ```
 var options = {
     usePre:true
 }
+
 $('#container').html(devel(options).output('My Object', data).done());
 ```
